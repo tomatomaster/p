@@ -1,0 +1,23 @@
+{
+  "livePreviewComment": {
+    "scope": "javascript,typescript",
+    "prefix": "refp5",
+    "body": "/// <reference path=\"node_modules/@types/p5/global.d.ts\" />",
+    "description": "for p5js live preview."
+  },
+
+  "template": {
+    "scope": "javascript,typescript",
+    "prefix": "template",
+    "body": [
+      "/// <reference path=\"node_modules/@types/p5/global.d.ts\" />",
+      "",
+      "function setup() {",
+      "  createCanvas(windowWidth, windowHeight);",
+      "}",
+      "",
+      "function draw() {}"
+    ],
+    "description": "for p5js live preview."
+  }
+}
