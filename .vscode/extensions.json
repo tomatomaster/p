@@ -1,6 +1,7 @@
 {
-    "recommendations": [
-        "acidic9.p5js-snippets",
-        "filipesabella.live-p5"
-    ]
+  "recommendations": [
+    "acidic9.p5js-snippets",
+    "filipesabella.live-p5",
+    "ritwickdey.liveserver"
+  ]
 }
